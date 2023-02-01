@@ -1,0 +1,15 @@
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/bin/Debug/net6.0/Example001_NewConsole
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/bin/Debug/net6.0/Example001_NewConsole.deps.json
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/bin/Debug/net6.0/Example001_NewConsole.runtimeconfig.json
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/bin/Debug/net6.0/Example001_NewConsole.dll
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/bin/Debug/net6.0/Example001_NewConsole.pdb
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.csproj.AssemblyReference.cache
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.AssemblyInfoInputs.cache
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.AssemblyInfo.cs
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.csproj.CoreCompileInputs.cache
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.dll
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/refint/Example001_NewConsole.dll
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.pdb
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/Example001_NewConsole.genruntimeconfig.cache
+/Users/liliiaalbertovna/Программист мобильных устройств/Знакомство с языками программирования(лекции)/Example001_NewConsole/obj/Debug/net6.0/ref/Example001_NewConsole.dll
